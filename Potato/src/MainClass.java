@@ -11,6 +11,7 @@ public class MainClass {
 		System.out.println("yo bob");
 		
 		System.out.println("thats cool!");
+		System.out.println("thats very cool!");
 		
 		FramePrincipale g = new FramePrincipale();
 		Thread t = new Thread(g);
