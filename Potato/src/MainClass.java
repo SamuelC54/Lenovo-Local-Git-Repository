@@ -10,7 +10,7 @@ public class MainClass {
 	public static void main(String[] args) {
 		System.out.println("yo bob");
 		
-		System.out.println("thats cool!");
+		System.out.println("thats super cool!");
 		
 		FramePrincipale g = new FramePrincipale();
 		Thread t = new Thread(g);
